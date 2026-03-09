@@ -261,5 +261,5 @@ Developed and tested on:
 
 ## Church Context
 
-Built for **Salt City Church**, Port Harcourt, Nigeria. Pastor: Tobore David.  
-Telegram channel: [SaltCity Central](https://t.me/saltcitycentral) — 1,098 subscribers
+Built for **Salt City Church**, Warri, Nigeria. Pastor: Tobore David.  
+Telegram channel: [SaltCity Central](https://t.me/mysaltcity) — 1,098 subscribers
