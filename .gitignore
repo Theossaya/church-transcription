@@ -1,0 +1,34 @@
+# Virtual environment — never push this
+venv/
+
+# Audio files
+*.mp3
+*.wav
+*.m4a
+
+# Transcript outputs — these are work products, not source code
+*_transcript.txt
+*_transcript_corrected.txt
+*_transcript_corrected_corrected.txt
+*_ai_cleaned.txt
+
+# Reference transcripts (manual)
+fruitful_christianity_1.txt
+fruitful_christianity_2.txt
+how_to_build_a_personal_devotion.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment/secrets
+.env
+*.env
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
